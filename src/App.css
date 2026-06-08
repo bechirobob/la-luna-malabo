@@ -476,7 +476,7 @@ input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible,
     linear-gradient(180deg, #11150f 0 42rem, #fff6e7 42rem 100%);
   background-size: 72px 72px, auto;
 }
-.theme-luna .topbar { border-width: 0 0 1px; box-shadow: none; backdrop-filter: none; background: transparent; color: #fff6e7; }
+.theme-luna .topbar { border-width: 0 0 1px; border-radius: 0; box-shadow: none; backdrop-filter: none; background: transparent; color: #fff6e7; }
 .theme-luna .brand, .theme-luna .nav-links a { color: #fff6e7; }
 .theme-luna .brand-light img { border-radius: 0; padding: 6px 10px; }
 .theme-luna .nav-links a:hover { background: transparent; color: #bd8b42; text-decoration: underline; text-underline-offset: 7px; }
